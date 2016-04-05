@@ -5,3 +5,5 @@ ________________________________________________________________________________
 Usage : CloudArtifact.exe VolumeName
 
 ex) CloudArtifact.exe C:\
+
+ ※Run This Program as administrator 
